@@ -25,7 +25,8 @@ Deployed at : https://judgement-prediction-streamlit.herokuapp.com/
 
 
 Deployment Files: The models were deployed on Heroku with UI built via StreamLit
-Refer, 2021-07-14_StreamLit & Heroku_HardikRaja.pptx for commands and background on Deployment
+<br/>
+<b>Refer, 2021-07-14_StreamLit & Heroku_HardikRaja.pptx for commands and background on Deployment</b>
 <br/>
 judgement_predictor.pkl - Saved Logistic Regression pickle file  
 Procfile - Executing the StreamLit App  
