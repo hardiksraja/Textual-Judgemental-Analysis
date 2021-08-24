@@ -20,7 +20,7 @@ We built 4 different models and finally selected DistilBERT
 Deployed at : https://judgement-prediction-streamlit.herokuapp.com/
 ![ModelDeployment](https://user-images.githubusercontent.com/53824674/130576560-00891ec7-fd5e-4b20-a72f-5af8a3a7445d.png)
 
-Deployment Files: The models were deployed on Heroku with UI build via StreamLit \n
+Deployment Files: The models were deployed on Heroku with UI build via StreamLit /n
 judgement_predictor.pkl - Saved Logistic Regression pickle file
 Procfile - Executing the StreamLit App
 requirements.txt - Required by Heroku
