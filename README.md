@@ -14,14 +14,13 @@ The data we pass between the two models is a vector of size 768. We can think of
 Model Evaluation Metrics – Accuracy and ROC AUC Score
 We built 4 different models and finally selected DistilBERT
 
-<Image>
+![ModelComparison](https://user-images.githubusercontent.com/53824674/130576412-8d82de04-ca51-4677-8d92-4fa6baa2b4a9.png)
 
-
-
+# Deployment/Demo
 Deployed at : https://judgement-prediction-streamlit.herokuapp.com/
+![ModelDeployment](https://user-images.githubusercontent.com/53824674/130576560-00891ec7-fd5e-4b20-a72f-5af8a3a7445d.png)
 
-<Image>
-Deployment Files: The models were deployed on Heroku with UI build via StreamLit
+Deployment Files: The models were deployed on Heroku with UI build via StreamLit \n
 judgement_predictor.pkl - Saved Logistic Regression pickle file
 Procfile - Executing the StreamLit App
 requirements.txt - Required by Heroku
