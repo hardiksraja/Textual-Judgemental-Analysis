@@ -11,6 +11,8 @@ The next model, a basic Logistic Regression model from scikit learn will take in
 
 The data we pass between the two models is a vector of size 768. We can think of this of vector as an embedding for the sentence that we can use for classification.
 
+Refer, Judgemental_Non_Judgemental_Anjali_Hardik_Jayant.pptx for detailed description on the project  
+
 # Model Evaluation Metrics – Accuracy and ROC AUC Score  
 We built 4 different models and finally selected DistilBERT  
 <br/>
@@ -23,6 +25,7 @@ Deployed at : https://judgement-prediction-streamlit.herokuapp.com/
 
 
 Deployment Files: The models were deployed on Heroku with UI built via StreamLit
+Refer, 2021-07-14_StreamLit & Heroku_HardikRaja.pptx for commands and background on Deployment
 <br/>
 judgement_predictor.pkl - Saved Logistic Regression pickle file  
 Procfile - Executing the StreamLit App  
